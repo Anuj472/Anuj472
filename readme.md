@@ -20,7 +20,7 @@ I'm a dedicated Software Engineer with a B.Tech in Computer Science and Engineer
 - Contributed to refining algorithms for real-time object detection, identifying inefficiencies in imaging processes to enhance system performance.
 
 ### Young Professional (AI/ML)  
-**Chegg** | May 2024 – Aug 2024  
+**Intellectual Property India** | May 2024 – Aug 2024  
 - Developed an advanced chatbot using LangChain API and HuggingFace's LLaMAIndex2, transforming user interactions for point and trademark queries.  
 - Built an image classification model with HuggingFace's LLaMA2 API, ensuring accurate and efficient query responses.
 
@@ -31,7 +31,7 @@ I'm a dedicated Software Engineer with a B.Tech in Computer Science and Engineer
 - Achieved 85% accuracy with PLSI-SB and 98% with CNN models for data quantification and classification.
 
 ### Subject Matter Expert  
-**Chegg** | Oct 2022 – Nov 2023  
+**Chegg** | July 2023 – Nov 2023  
 - Delivered clear explanations in Computer Science on Chegg’s tutoring platform, achieving a 90% student satisfaction rate.  
 - Resolved 200+ student queries and supported 120+ students with projects, improving solution accuracy by 20% through personalized guidance.
 
@@ -55,7 +55,7 @@ I'm a dedicated Software Engineer with a B.Tech in Computer Science and Engineer
 
 - **Programming**: Python, C, C++, MySQL, Data Structures & Algorithms  
 - **Libraries**: NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn, TensorFlow, PyTorch, Keras  
-- **Frameworks & Technologies**: Django, Flask, Hadoop, Hive, PySpark, AWS (S3, SageMaker), Databases, Git, Power BI  
+- **Frameworks & Technologies**: Django, Flask, Hadoop,PySpark, AWS (S3, SageMaker), Databases, Git, Power BI  
 - **Tools**: XPath, GraphQL  
 
 ---
